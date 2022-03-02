@@ -1,0 +1,30 @@
+Feb 28, 2022 12:49:32 PM MyApplication prescription
+INFO: Journal for user: 3 was accessed by Doctor with id: 3
+Feb 28, 2022 1:32:11 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:35:03 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:37:52 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:39:29 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:42:11 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:42:46 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:46:30 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:48:14 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:49:13 PM MyApplication prescription
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 1:52:18 PM MyApplication readJournal
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 2:11:17 PM MyApplication readJournal
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Feb 28, 2022 2:12:10 PM MyApplication readJournal
+INFO: Journal for user: 6 was accessed by Doctor with id: 7
+Mar 02, 2022 4:18:42 PM MyApplication patientByID
+INFO: Patient with id: 6 was accessed
+Mar 02, 2022 4:18:57 PM MyApplication patientByID
+INFO: Patient with id: 25 was accessed
